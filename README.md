@@ -1,1 +1,1 @@
-# terraform-aws-eks-2020-1
+# terraform-class-april-2020
